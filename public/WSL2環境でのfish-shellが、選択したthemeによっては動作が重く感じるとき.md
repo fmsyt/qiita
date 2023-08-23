@@ -1,11 +1,11 @@
 ---
 title: WSL2環境でのfish-shellが、選択したpromptによっては動作が重く感じるとき
 tags:
-  - 'fish'
-  - 'fish-shell'
+  - fish
+  - fish-shell
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-08-23T16:22:25+09:00'
+id: 4796d2c897fb1f4b1a10
 organization_url_name: null
 slide: false
 ---
