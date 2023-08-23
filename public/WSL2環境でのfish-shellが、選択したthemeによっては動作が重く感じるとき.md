@@ -3,6 +3,7 @@ title: WSL2環境でのfish-shellが、選択したpromptによっては動作�
 tags:
   - fish
   - fish-shell
+  - WSL2
 private: false
 updated_at: '2023-08-23T16:22:25+09:00'
 id: 4796d2c897fb1f4b1a10
